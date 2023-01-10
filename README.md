@@ -1,16 +1,2 @@
-# sorular
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2023-01-10 205257](https://user-images.githubusercontent.com/112394032/211626535-ee29c880-d228-4f3a-a066-5eb6601cfa58.png)
+![Ekran görüntüsü 2023-01-10 205310](https://user-images.githubusercontent.com/112394032/211626540-2717278d-d040-44d8-9e3d-a14f44ea3006.png)
